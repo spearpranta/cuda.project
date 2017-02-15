@@ -1,0 +1,257 @@
+ 
+.cuda h1{
+    padding-left: 50px;
+}
+
+.first-part{
+    color: #fff;
+    background: #87509C;
+
+}
+
+.navbar-part{
+
+}
+
+.navbar-part ul{
+      padding-top: 20px;
+}
+.navbar-part ul li{
+  background: transparent;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color: #fff;
+    background-color: #455e73;
+}
+.navbar-part ul li:hover{
+
+}
+.navbar-part ul li a{}
+
+.navbar-down-part{
+    color: #fff;
+    line-height: 5;
+    text-align: center;
+    padding: 40px 0px;
+
+} 
+.navbar-down-part h3{
+  padding: 0px 315px;
+}
+.btn-color{
+  background-color: #EB7D4B;
+
+}
+
+.service-part{
+  background: #17C2A4;
+  color:#fff;
+  text-align: center;
+}
+.service-part img{
+      padding: 5px;
+}
+.service-part h3{
+      padding: 10px;
+    font-size: 27px;
+    font-weight: 600;
+
+}
+.service-part p{
+    padding: 10px;
+    text-align: justify;
+    padding-bottom: 60px;
+}
+.heading-part{
+  text-align: center;
+}
+.heading-part h2{
+    font-weight: 700;
+    
+}
+.heading-part span{
+   color: rgb(83, 89, 93);
+}
+.heading-part p{
+   font-size: 17px;
+    padding: 35px 310px;
+}
+
+.beautiful-part{
+    text-align: center;
+    color: #696666;
+    background: #eee;
+}
+.beautiful-part h2{   
+    font-weight: 600;
+    padding: 10px;
+    padding-top: 45px;
+    padding-bottom: 16px;
+}
+
+.beautiful-part p{
+    padding-bottom: 30px;
+}
+.beautiful-part h4{
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.padd{
+  padding-bottom: 50px;
+}
+.skill-part{
+  text-align: center;
+  height: 100vh;
+}
+.skill-part h2{
+    font-size: 30px;
+    font-weight: 600;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.skill-part p{
+      padding: 36px 425px;
+}
+.skill-part h4{
+    padding: 20px;
+    font-size: 22px;
+    font-weight: 500;
+}
+.portfolio-part{
+   text-align: center;
+   background: #FFDD99;
+   padding-bottom: 40px;
+}
+.portfolio-part h3{
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 50px;
+}
+.portfolio-part p{
+    padding: 25px 427px;
+}
+.portfolio-part ul{
+          padding-left: 443px;
+    padding-bottom: 70px;
+}
+.portfolio-part li{
+    background: #e8c06f;
+    color: #000;
+}
+.portfolio-part a{
+
+}
+.portfolio-part .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color: rgb(0, 0, 0);
+    background-color: #fbfbfb;
+    
+}
+.nav > li > a {
+ color: #f8f3f3;
+  }
+  .nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color: #fff;
+    color: #000;
+}
+.portfolio-part span{
+
+}
+.button{
+  padding: 40px;
+}
+button{
+    background: #55d6bf;
+    font-size: 15px;
+    padding: 5px; 
+    color: #fff;
+}
+button:hover{
+      background: #fff;
+    color: #000;
+}
+.people-part{
+     text-align: center;
+   background: #D74680;
+   color: #fff;
+}
+.people-part h3{
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 50px;
+}
+.people-part p{  
+    padding: 23px;
+    color: #c7bebe;
+}
+.people-part span{
+    color: rgb(83, 89, 93);
+}
+.people-part img{
+    margin-top: 25px;
+}
+
+.people-part h5{
+    color: #efc16e;
+}
+.upper-part{
+    padding-bottom: 30px;
+}
+.lower-part{
+    padding-bottom: 40px;
+}
+.form-part{
+   text-align: center;
+   background: #3C5499;
+   color: #fff;
+}
+.form-part h3{
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 50px;
+}
+.form-part p{
+    padding: 23px;
+    color: #dacece;
+}
+
+.form-part span{
+
+}
+.form-control {
+    color: #fffafa;
+    background-color: #103f65;
+    width:100%;
+    border: 1px solid #2d3a84;
+}
+.btn-default {
+    color: #fff9f9;
+    background-color: #30BAE7;
+    border-color: #2d1e48;
+}
+.btn-default:hover {
+    color: #e2cece;
+    background-color: #103f65;
+    border-color: #584f4f;
+}
+.footer-part{
+  text-align: center;
+    background: #344B8E;
+    padding: 25px;
+    font-size: 20px;
+    word-spacing: 25px;
+    color: #fff;
+}
+.footer-part a{
+      color: #cec8c8;
+}
+.footer-part span{
+      color: #30bae7;
+
+}
+.margin{
+    margin: 15px;
+}
